@@ -32,6 +32,7 @@ Credits:
 	Michele Birkner
 	Spencer Forman
 	Zander Galvin
+	Charli-Anne Hanna-Baker
 	James Hutchinson
 	Kathleen Hutchinson
 	Jordan Jomsky
@@ -63,6 +64,9 @@ Credits:
 
 	XS - Pre Title
 	Author: Nicke
+	
+	Display Controls in Menu Scene
+	Author José Rodriguez-Rivas
 
 	Music:
 	RPG Maker XP RTP Music
@@ -79,6 +83,7 @@ Credits:
 	GoDaddy
 
 	Special Thanks To:
+	Alexis Abrams
 	Allison R.
 	Mark Sheinberg
 	James Hutchinson
